@@ -67,7 +67,17 @@
 
 
   <footer class="footer">
-    <p class="has-text-centered">Copyright (c) 2021</p>
+    <div class="columns">
+      <div class="column">
+        <p class="has-text-left">Equipo 2</p>
+      </div>
+      <div class="column">
+
+        <a href="https://mytech-ecommerce.azurewebsites.net/admin/" class="button is-pulled-right is-small is-info is-light has-tooltip-arrow has-tooltip-info" data-tooltip="Solo Empleados">
+          Administrar
+        </a>
+      </div>
+    </div>
   </footer>
 
   </div>
@@ -115,6 +125,7 @@ export default {
 
 <style lang="scss">
 @import '../node_modules/bulma';
+@import '../node_modules/bulma-tooltip';
 
 .lds-dual-ring{
   display: inline-block;
