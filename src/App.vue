@@ -69,7 +69,7 @@
   <footer class="footer">
     <div class="columns">
       <div class="column">
-        <p class="has-text-left">Equipo 2</p>
+        <p class="has-text-left">Equipo 3</p>
       </div>
       <div class="column">
 
