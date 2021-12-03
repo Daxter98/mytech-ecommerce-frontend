@@ -6,7 +6,7 @@
           MyTech E-Commerce
         </p>
         <p class="subtitle">
-          WIP Proyecto ISW
+          Proyecto de Software
         </p>
       </div>
     </section>
