@@ -46,7 +46,7 @@
 
               <router-link to="/carrito" class="button is-success">
                 <span class="icon"><i class="fas fa-shopping-cart"></i></span>
-                <span>Cart ({{ cartTotalLength }})</span>
+                <span>Carrito ({{ cartTotalLength }})</span>
               </router-link>
             </div>
           </div>
